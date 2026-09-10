@@ -15,4 +15,4 @@ Five skills that give Claude Code and Codex a process for Figma work: planning f
 
 Before that: senior product designer at Zerion (Web3 wallet, 2021–2025), UX and design systems at RetailCRM — Omnica Design System, 15,000 e-commerce clients.
 
-[chudarin.com](https://chudarin.com) · Nha Trang, Vietnam · open to work
+[chudarin.com](https://chudarin.com) · always open to work
