@@ -1,4 +1,4 @@
-## Sergey Chudarin
+## Sergei Chudarin
 
 Product designer and design lead. I teach agents to design in Figma.
 
