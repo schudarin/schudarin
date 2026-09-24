@@ -15,4 +15,4 @@ Five skills that give Claude Code and Codex a process for Figma work: planning f
 
 Before that: Product Designer at Grothex (Billion Wallet, Krabo), Zerion (Web3 wallet, 2021–2025), UX and design systems at RetailCRM (Simla.com).
 
-[chudarin.com](https://chudarin.com) · always open to work
+**[chudarin.com](https://chudarin.com)**
